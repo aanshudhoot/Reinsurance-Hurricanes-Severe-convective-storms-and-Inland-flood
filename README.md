@@ -34,7 +34,3 @@ Simulated aggregate loss distribution for the USD 1B portfolio
 Priced reinsurance layers (expected loss, probability of exhaustion, premium)
 Sensitivity analysis under stress scenarios
 Recommended reinsurance program options
-
-Disclaimer
-
-This is an educational case study using public NOAA data and synthetic exposure data. It is not intended for actual reinsurance placement or underwriting decisions.
